@@ -1,2 +1,2 @@
-FROM gcr.io/deeplearning-platform-release/tf-cpu.1-14:latest
+FROM gcr.io/deeplearning-platform-release/pytorch-gpu.1-2:latest
 MAINTAINER hanalice
